@@ -1,1 +1,1 @@
-# karina_1C
+# karina_1C_configuration_and_documentation
